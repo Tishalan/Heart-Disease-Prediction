@@ -197,7 +197,7 @@ Open notebooks in this order:
 
 ---
 
-## 📸 Outputs
+## Outputs
 
 | Output | Description |
 |---|---|
@@ -207,7 +207,7 @@ Open notebooks in this order:
 
 ---
 
-## 📄 License
+## License
 
 This project is open source. Add your preferred license here.
 
